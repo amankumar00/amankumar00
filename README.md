@@ -3,7 +3,7 @@
 </div>
 
 ### Hi there 👋
-- Hi, I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a Software Engineer at Apisero.
+Hi, I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a Software Engineer at Apisero.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
