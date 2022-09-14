@@ -2,9 +2,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+---
+
 ### Hi there 👋
 I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a Software Engineer at Apisero.
 
+---
 
 ### :technologist: About Me :
 - :telescope: I’m working as a Software Engineer.
@@ -15,6 +18,7 @@ I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a S
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amankumar-exe/)
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -34,6 +38,8 @@ I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a S
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
 
 ### :fire: My Stats :
 <p align="center">
