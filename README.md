@@ -4,7 +4,12 @@
 </div>
 ### :fire: My Stats :
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats) -->
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a>
+</p>
+
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
