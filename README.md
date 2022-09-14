@@ -42,10 +42,8 @@ I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a S
 ### :fire: My Stats :
 
 <!-- [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankumar00)](https://github.com/anuraghazra/github-readme-stats) -->
-
- <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a>
- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a> 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a> 
 </p>
 
 
