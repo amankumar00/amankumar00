@@ -3,7 +3,18 @@
 </div>
 
 ### Hi there 👋
-Hi, I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a Software Engineer at Apisero.
+I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a Software Engineer at Apisero.
+
+
+### :technologist: About Me :
+- :telescope: I’m working as a Software Engineer.
+
+- :seedling: Currently trying my hand at React.JS
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amankumar-exe/)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
