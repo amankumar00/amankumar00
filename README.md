@@ -2,13 +2,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### :fire: My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats) -->
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a>
-</p>
-
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -28,6 +21,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a>
+</p>
+
+
+
 
 <!--
 **amankumar00/amankumar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
