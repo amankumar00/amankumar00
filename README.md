@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-amankumar00&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **amankumar00/amankumar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
