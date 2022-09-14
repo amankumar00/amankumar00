@@ -14,7 +14,7 @@ I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a S
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amankumar-exe/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankumar-exe/)
 
 ---
 
