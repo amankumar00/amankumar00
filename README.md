@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
----
-
 ### Hi there 👋
 I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a Software Engineer at Apisero.
 
@@ -42,10 +40,13 @@ I'm Aman, an aspiring Full Stack Web Developer 🚀 from India and currently a S
 ---
 
 ### :fire: My Stats :
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a>
-</p>
 
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankumar00)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a>
+<!-- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=amankumar00&theme=dark&hide_border=true&border_radius=10"/></a> -->
+</p>
+ -->
 
 
 
